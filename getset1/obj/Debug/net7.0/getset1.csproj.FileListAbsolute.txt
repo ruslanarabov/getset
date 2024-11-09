@@ -1,0 +1,15 @@
+/Users/macbook/Desktop/getset1/bin/Debug/net7.0/getset1
+/Users/macbook/Desktop/getset1/bin/Debug/net7.0/getset1.deps.json
+/Users/macbook/Desktop/getset1/bin/Debug/net7.0/getset1.runtimeconfig.json
+/Users/macbook/Desktop/getset1/bin/Debug/net7.0/getset1.dll
+/Users/macbook/Desktop/getset1/bin/Debug/net7.0/getset1.pdb
+/Users/macbook/Desktop/getset1/obj/Debug/net7.0/getset1.csproj.AssemblyReference.cache
+/Users/macbook/Desktop/getset1/obj/Debug/net7.0/getset1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Desktop/getset1/obj/Debug/net7.0/getset1.AssemblyInfoInputs.cache
+/Users/macbook/Desktop/getset1/obj/Debug/net7.0/getset1.AssemblyInfo.cs
+/Users/macbook/Desktop/getset1/obj/Debug/net7.0/getset1.csproj.CoreCompileInputs.cache
+/Users/macbook/Desktop/getset1/obj/Debug/net7.0/getset1.dll
+/Users/macbook/Desktop/getset1/obj/Debug/net7.0/refint/getset1.dll
+/Users/macbook/Desktop/getset1/obj/Debug/net7.0/getset1.pdb
+/Users/macbook/Desktop/getset1/obj/Debug/net7.0/getset1.genruntimeconfig.cache
+/Users/macbook/Desktop/getset1/obj/Debug/net7.0/ref/getset1.dll

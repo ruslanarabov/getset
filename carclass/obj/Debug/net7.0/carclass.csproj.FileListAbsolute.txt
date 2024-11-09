@@ -1,0 +1,15 @@
+/Users/macbook/Desktop/carclass/bin/Debug/net7.0/carclass
+/Users/macbook/Desktop/carclass/bin/Debug/net7.0/carclass.deps.json
+/Users/macbook/Desktop/carclass/bin/Debug/net7.0/carclass.runtimeconfig.json
+/Users/macbook/Desktop/carclass/bin/Debug/net7.0/carclass.dll
+/Users/macbook/Desktop/carclass/bin/Debug/net7.0/carclass.pdb
+/Users/macbook/Desktop/carclass/obj/Debug/net7.0/carclass.csproj.AssemblyReference.cache
+/Users/macbook/Desktop/carclass/obj/Debug/net7.0/carclass.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Desktop/carclass/obj/Debug/net7.0/carclass.AssemblyInfoInputs.cache
+/Users/macbook/Desktop/carclass/obj/Debug/net7.0/carclass.AssemblyInfo.cs
+/Users/macbook/Desktop/carclass/obj/Debug/net7.0/carclass.csproj.CoreCompileInputs.cache
+/Users/macbook/Desktop/carclass/obj/Debug/net7.0/carclass.dll
+/Users/macbook/Desktop/carclass/obj/Debug/net7.0/refint/carclass.dll
+/Users/macbook/Desktop/carclass/obj/Debug/net7.0/carclass.pdb
+/Users/macbook/Desktop/carclass/obj/Debug/net7.0/carclass.genruntimeconfig.cache
+/Users/macbook/Desktop/carclass/obj/Debug/net7.0/ref/carclass.dll
