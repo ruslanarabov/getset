@@ -11,7 +11,7 @@ namespace carclass
         public string Name {get; set;}
         public double Speed {get; set;}
         public string CarCode {get; set;}
-        private static int _carCounter = 1000;
+        private int _carCounter = 1000;
 
 
         public Car(int id, string name, double speed)
